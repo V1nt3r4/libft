@@ -34,6 +34,6 @@ By the end of this project, you will have developed the following skills:
 To get started with **libft**, simply clone this repository to your local machine and compile the library.
 
 ```bash
-git clone https://github.com/yourusername/libft.git
+git clone https://github.com/V1nt3r4/libft.git
 cd libft
 make
