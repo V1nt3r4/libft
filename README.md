@@ -18,8 +18,7 @@ By the end of this project, you will have developed the following skills:
 2. [Installation](#installation)
 3. [Usage](#usage)
 4. [Function List](#function-list)
-5. [Contribution](#contribution)
-6. [License](#license)
+
 
 ## ✨ **Features**
 
