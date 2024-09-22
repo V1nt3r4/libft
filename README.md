@@ -13,8 +13,11 @@ By the end of this project, you will have developed the following skills:
 - Familiarity with the most important standard library functions (and how they work behind the scenes).
 
 ## 📜 **ESTRUCTURA**
-/docs
-L_ft_isalpha.md    #
+/mi-proyecto
+├── /documentación
+│   └── ft_isalpha.md
+└── README.md
+
 Documentación de la función
 ft_isalpha
 1. [Features](#features)
