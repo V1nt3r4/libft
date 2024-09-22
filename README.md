@@ -14,7 +14,7 @@ By the end of this project, you will have developed the following skills:
 
 ## 📜 **ESTRUCTURA**
 /docs
-|--ft_isalpha.md
+|--ft_isalpha.md    #
 Documentación de la función
 ft_isalpha
 1. [Features](#features)
