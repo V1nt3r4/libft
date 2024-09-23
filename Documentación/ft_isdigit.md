@@ -8,6 +8,7 @@
     dígito devuelve 1; en caso contrario, devuelve 0.
     
    PARÁMETRO:
+  
     c: El valor ASCII del carácter que se evaluará. Aunque se recibe como entero,
     este valor debería corresponder a un carácter ASCII.
     
