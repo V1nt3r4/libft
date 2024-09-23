@@ -1,5 +1,6 @@
  
  **PROTOTIPO DE FUNCIÓN**:
+ 
     - int ft_isdigit(int c)
     
  **DESCRIPCIÓN**:
