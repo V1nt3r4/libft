@@ -13,7 +13,7 @@ By the end of this project, you will have developed the following skills:
 - Familiarity with the most important standard library functions (and how they work behind the scenes).
 
 ## 📜 **ESTRUCTURA**
-1. [Features](#documentación)
+1. [Features](./documentación/)
 2. [Installation](#installation)
 3. [Usage](#usage)
 4. [Function List](#function-list)
