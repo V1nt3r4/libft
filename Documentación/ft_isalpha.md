@@ -1,6 +1,6 @@
 **PROTOTIPO DE LA FUNCIÓN**
 
-´´´ int ft_isalpha(int c) ´´´
+``` int ft_isalpha(int c) ```
 
 **DESCRIPCIÓN**
 
