@@ -15,9 +15,10 @@ es que este valor se corresponda con un valor ASCII de un carácter.*
 
 **VALOR DE RETORNO**
 
--- Retorna 1 *si el valor de 'c' corresponde a una letra alfabética 
+- Retorna 1 *si el valor de 'c' corresponde a una letra alfabética 
 (es decir, una letra entre 'A' y 'Z' o entre 'a' y 'z').*
--- Retorna 0 *en cualquier otro caso*
+
+- Retorna 0 *en cualquier otro caso*
 
 **USO COMÚN**
 
