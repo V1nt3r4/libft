@@ -20,6 +20,7 @@
     - retorna 0 en cualquier otro caso.
     
  **USO COMÚN**
+ 
     - Esta función es útil cuando se necesita validar si un carácter es un dígito,
     por ejemplo, al leer o procesar entradas numéricas en cadenas de texto.
     
