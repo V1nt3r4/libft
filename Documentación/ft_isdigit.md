@@ -16,12 +16,12 @@
     
  **VALOR DE ENTORNO**
  
-    - retorna 1 si el valor de c corresponde a un dígito('0' a '9').
-    - retorna 0 en cualquier otro caso.
+    Retorna 1 si el valor de c corresponde a un dígito('0' a '9').
+    Retorna 0 en cualquier otro caso.
     
  **USO COMÚN**
  
-    - Esta función es útil cuando se necesita validar si un carácter es un dígito,
+    Esta función es útil cuando se necesita validar si un carácter es un dígito,
     por ejemplo, al leer o procesar entradas numéricas en cadenas de texto.
     
  **EJEMPLO DE USO**:
@@ -36,4 +36,4 @@
             printf("%c no es un número", ch);
 
   return 0;
-   }
+   } ´´´ 
