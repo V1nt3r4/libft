@@ -17,7 +17,7 @@
   - Retorna 0 en cualquier otro caso.*
 
 **EJEMPLO DE USO**
-´´´
+```
 #include <stdio.h>
 
 int main(void)
@@ -31,4 +31,3 @@ int main(void)
     
     return 0;
 }
-```
