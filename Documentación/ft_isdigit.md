@@ -20,8 +20,8 @@
     por ejemplo, al leer o procesar entradas numéricas en cadenas de texto.
     
    EJEMPLO DE USO:
-  
-  #include <stdio.h>
+  ```
+   #include <stdio.h>
    int ft_isdigit(int c)
    {
         char ch = 5;
