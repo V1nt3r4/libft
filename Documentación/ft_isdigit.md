@@ -20,16 +20,15 @@
     por ejemplo, al leer o procesar entradas numéricas en cadenas de texto.
     
    EJEMPLO DE USO:
-   #include <stdio.h>
-   
+  
+  /* #include <stdio.h>
    int ft_isdigit(int c)
    {
         char ch = 5;
-
-        if(ft_isdigit(ch))
+         if(ft_isdigit(ch))
             printf("%c es un número", ch);
         else 
             printf("%c no es un número", ch);
 
-        return 0;
+  return 0;
    } */
