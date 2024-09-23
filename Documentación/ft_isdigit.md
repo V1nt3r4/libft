@@ -21,7 +21,7 @@
     
    EJEMPLO DE USO:
   
-  /* #include <stdio.h>
+  #include <stdio.h>
    int ft_isdigit(int c)
    {
         char ch = 5;
@@ -31,4 +31,4 @@
             printf("%c no es un número", ch);
 
   return 0;
-   } */
+   }
