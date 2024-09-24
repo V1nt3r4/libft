@@ -17,7 +17,7 @@
    - *Retorna 0 si el valor de 'c' no pertenece a este rango.*
 
 **EJEMPLO DE USO**
-´´´
+```
 #include <stdio.h>
 
 int ft_isascii(int c);
