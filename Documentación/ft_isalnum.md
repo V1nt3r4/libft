@@ -17,7 +17,8 @@
  - *Retorna 0 si no es ni una letra ni un dígito.*
 
 **EJEMPLO DE USO**
-´´´
+
+```
 #include <stdio.h>
 
 int ft_isalnum(int c);
@@ -36,4 +37,5 @@ int main(void)
 ```
 
 *EL CÓDIGO IMPRIMIRÁ*
-``` 9 es alfanumérico ```
+
+```9 es alfanumérico```
