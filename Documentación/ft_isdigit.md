@@ -1,28 +1,29 @@
  
  **PROTOTIPO DE FUNCIÓN**
  
-    - int ft_isdigit(int c)
+   ```int ft_isdigit(int c)```
     
  **DESCRIPCIÓN**
  
-    La función ft_isdigit toma un entero que representa el valor de ASCII de un 
+   *La función ft_isdigit toma un entero que representa el valor de ASCII de un 
     carácter es un dígito decimal (es decir, un número entre '1' y '9'). Si es un 
-    dígito devuelve 1; en caso contrario, devuelve 0.
+    dígito devuelve 1; en caso contrario, devuelve 0.*
     
  **PARÁMETRO**
   
-    c: El valor ASCII del carácter que se evaluará. Aunque se recibe como entero,
-    este valor debería corresponder a un carácter ASCII.
+   c: *El valor ASCII del carácter que se evaluará. Aunque se recibe como entero,
+    este valor debería corresponder a un carácter ASCII.*
     
  **VALOR DE ENTORNO**
  
-    Retorna 1 si el valor de c corresponde a un dígito('0' a '9').
-    Retorna 0 en cualquier otro caso.
+   - Retorna 1 si el valor de c corresponde a un dígito('0' a '9').
+     
+   - Retorna 0 en cualquier otro caso.
     
  **USO COMÚN**
  
-    Esta función es útil cuando se necesita validar si un carácter es un dígito,
-    por ejemplo, al leer o procesar entradas numéricas en cadenas de texto.
+   *Esta función es útil cuando se necesita validar si un carácter es un dígito,
+    por ejemplo, al leer o procesar entradas numéricas en cadenas de texto.*
     
  **EJEMPLO DE USO**:
   ```
@@ -36,4 +37,4 @@
             printf("%c no es un número", ch);
 
   return 0;
-   } ´´´ 
+   } ```
