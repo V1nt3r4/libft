@@ -1,4 +1,4 @@
-# STRLEN 
+# STRLEN 📏
 ### Prototipo
 ``` size_t strlen(const char *s); ```
 
