@@ -23,12 +23,12 @@ atoi toma una cadena de caracteres que representa un número y la convierte en u
 
 **Resultado**: *Devuelve el número entero construido a partir de la cadena.*
 
-## Ejemplo:
+### Ejemplo:
 **Cadena**: " -1234abc"
 
 **Proceso**: atoi(" -1234abc")
 
-### Proceso:
+## Proceso:
 >Ignora los espacios en blanco al principio: " -1234abc"
 
 >Encuentra el signo '-' y decide que el número será negativo.
