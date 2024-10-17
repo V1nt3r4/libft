@@ -1,4 +1,4 @@
-# ISASCII
+# ISASCII 💻
 ## Pototipo de la función
 ```int	ft_isascii(int c)```
 
