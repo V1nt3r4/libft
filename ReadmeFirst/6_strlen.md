@@ -19,19 +19,14 @@ Imagina que strlen es una cinta métrica mágica para contar letras en una caden
 
 **Cadena: "Hola"**
 
-Proceso:
+**Proceso:**
 
--> Cuenta 'H' (1)
-
--> Cuenta 'o' (2)
-
--> Cuenta 'l' (3)
-
--> Cuenta 'a' (4)
-
--> Encuentra '\0' y se detiene.
-
--> Resultado: La longitud de "Hola" es 4.
+>> Cuenta 'H' (1)
+>> Cuenta 'o' (2
+>> Cuenta 'l' (3)
+>> Cuenta 'a' (4)
+>> Encuentra '\0' y se detiene.
+>>Resultado: La longitud de "Hola" es 4.
 
 ### PRUEBA UN MAIN
 ```
