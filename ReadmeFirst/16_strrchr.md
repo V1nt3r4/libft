@@ -2,7 +2,7 @@
 ## Prototipo
 ``` char	*ft_strrchr(const char *s, int c) ```
 
-## Filosofemos 
+## Filosofemos 🚬🌿
 Piensa en strrchr como un buscador de tesoros que, en vez de comenzar desde el inicio del mapa, decide buscar desde el final. Su misión: encontrar la última aparición de un carácter específico en una cadena.
 
 **¿Qué hace strrchr?**
