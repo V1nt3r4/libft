@@ -2,7 +2,7 @@
 ## Prototipo
 ``` size_t	ft_strlcat(char *dest, char *src, size_t size) ```
 
-### Filosofemos 🚬🌿
+## Filosofemos 🚬🌿
 Imagina que strlcat es como un chef mezclando ingredientes de dos recetas diferentes, asegurándose de que todo quepa perfectamente en un cuenco grande sin derramarse.
 
 **¿Qué hace strlcat?**
