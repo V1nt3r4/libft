@@ -2,7 +2,7 @@
 ## Prototipo
 ``` size_t strlen(const char *s); ```
 
-### Filosofemos 🚬🌿
+## Filosofemos 🚬🌿
 Imagina que strlen es una cinta métrica mágica para contar letras en una cadena de texto, ¿vale?.
 
 ## ¿Cómo funciona?
