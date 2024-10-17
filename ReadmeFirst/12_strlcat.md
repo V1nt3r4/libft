@@ -8,7 +8,7 @@ Imagina que strlcat es como un chef mezclando ingredientes de dos recetas difere
 **¿Qué hace strlcat?**
 strlcat combina dos cadenas de caracteres: une una cadena de destino con una cadena de origen, pero se asegura de que no sobrepase el tamaño del destino y que siempre haya un carácter nulo ('\0') al final.
 
-### Cómo funciona:
+## Cómo funciona:
 **Inicio**: Tienes dos cadenas de texto: una de destino que ya tiene algo escrito y una de origen con nuevos ingredientes que quieres añadir.
 
 **El Chef Mezclador**: strlcat empieza a copiar los ingredientes (caracteres) de la cadena de origen al final de la cadena de destino.
