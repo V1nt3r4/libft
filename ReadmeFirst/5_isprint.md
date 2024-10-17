@@ -1,6 +1,6 @@
 # isprint
 ## Prototipo
-´´´int ft_siprint(c)´´´
+``` int ft_siprint(c) ```
 
 ### Filosofemos
 Su trabajo es verificar si el carácter que quiere entrar es visible (cuaquier cosa que  se pueda 
