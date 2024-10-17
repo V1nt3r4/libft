@@ -1,6 +1,6 @@
 # ISALPHA <🅰>
 
-### Prototipo
+## Prototipo
 
 ``` int isalpha(int c);```
 
