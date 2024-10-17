@@ -9,7 +9,7 @@ llena de garabatos y bzero es la mano mágica que borra todo y deja la pizarra c
 **¿Qué hace bzero?**
 bzero limpia un bloque de memoria, llenándolo todo con ceros.
 
-### Cómo funciona:
+## Cómo funciona:
 Inicio: Tienes un pedazo de memoria, imagina una fila de casilleros con cualquier contenido.
 
 **La Borradora**: bzero toma una cantidad específica de casilleros y los llena todos con 0.
