@@ -36,3 +36,14 @@ calloc asigna memoria para una cantidad específica de elementos, y lo hace de f
 >Devuelve un puntero a la bandeja con los vasos listos para usarse.
 
 ### PRUEBA UN MAIN
+```
+int main() {
+	int		*arr = (int *)calloc(5, sizeof(int));
+	int		i = 0;
+	
+	while(i < 5){
+		printf("%d\n", arr[i]);
+		i++;
+	}
+}
+```
