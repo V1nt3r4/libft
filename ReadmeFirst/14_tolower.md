@@ -2,7 +2,7 @@
 ## Prototipo
 ``` int	ft_tolower(int c) ```
 
-### Filosofemos
+### Filosofemos 🚬🌿
 Imagina que tolower es como un mago que convierte letras grandes (mayúsculas) en letras pequeñas (minúsculas) con un toque suave y mágico.
 
 **¿Qué hace tolower?**
