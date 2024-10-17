@@ -2,7 +2,7 @@
 ## Prototipo
 ``` void ft_bzero(void *d, size_t len) ```
 
-### Filosofemos 🚬🌿
+## Filosofemos 🚬🌿
 Piensa en bzero como una borradora mágica para la memoria. Imagina que tienes una pizarra
 llena de garabatos y bzero es la mano mágica que borra todo y deja la pizarra completamente limpia.
 
