@@ -1,7 +1,8 @@
 # ISALNUM   <🔡/🔢>
 
-## prototipo de la función
+### prototipo de la función
 ```int ft_isalnumm(int c)```
+### 
 
 **isalnum** simplemente verifica si un caracter es una letra o un número. Si es así, lo deja pasar.
 Si no lo es, no.
