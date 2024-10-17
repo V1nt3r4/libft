@@ -30,7 +30,7 @@ strlcpy copia una cadena de caracteres desde un origen a un destino, asegurándo
 **Resultado**:
 *Destino: "Receta Se\0"*
 
-### PUEBA UN MAIN
+### PRUEBA UN MAIN
 ```
 int main() {
 	char	dst[20] = "Hola";
