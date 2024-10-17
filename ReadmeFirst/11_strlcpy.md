@@ -32,3 +32,15 @@ strlcpy copia una cadena de caracteres desde un origen a un destino, asegurándo
 
 ### PUEBA UN MAIN
 ```
+int main() {
+	char	dst[20] = "Hola";
+	char	src[] = "Mundo!!!";
+
+	size_t	result = ft_strlcat(dst, src, sizeof(dst));
+
+	printf("La cadena combinada es: %s\n", dst);
+	printf("La longitud de la cadena resultante: %zu\n", result);
+
+	return(0);
+}
+```
