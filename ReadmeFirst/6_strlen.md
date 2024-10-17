@@ -5,7 +5,7 @@
 ### Filosofemos 🚬🌿
 Imagina que strlen es una cinta métrica mágica para contar letras en una cadena de texto, ¿vale?.
 
-### ¿Cómo funciona?
+## ¿Cómo funciona?
 
 **Inicio**: Tienes una cadena de texto, como "Hola".
 
