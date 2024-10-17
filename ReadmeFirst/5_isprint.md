@@ -2,7 +2,7 @@
 ## Prototipo
 ``` int ft_siprint(c) ```
 
-### Filosofemos para isprint 🚬🌿
+## Filosofemos 🚬🌿
 La función isprint es como un portero en un club llamado "Club Caracteres Imprimibles". Este portero tiene una misión muy simple: dejar entrar solo a los caracteres que son visibles en pantalla (es decir, cualquier cosa que puedas ver y que se puede imprimir, como letras, números, signos de puntuación y espacios).
 
 ### Ejemplo
