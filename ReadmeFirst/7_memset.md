@@ -9,7 +9,7 @@ mismo color, o en este caso, con el mismo valor.
 **Qué hace memset?**
 memset llena un bloque de memoria con un valor específico.
 
-### Cómo funciona:
+## Cómo funciona:
 **Inicio**: Tienes un pedazo de memoria, imagina una fila de casilleros vacíos.
 
 **La Brocha**: memset tiene una brocha de pintura y un valor específico (un número o carácter) con el que quiere llenar todos los casilleros.
