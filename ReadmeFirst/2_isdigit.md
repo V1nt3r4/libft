@@ -3,7 +3,7 @@
 ## Prototipo
 
 ``` int ft_isdigit(int c)```
-### Filosofemos 🚬🌿
+## Filosofemos 🚬🌿
 isdigit simplemente verifica si un carácter es un dígito numérico. Si es así, lo deja pasar y dice que sí. Si no lo es, lo rechaza amablemente. Todo en calma, sin estrés, solo dejando entrar a los números a su exclusivo club.
 
 ## Pasos claves
