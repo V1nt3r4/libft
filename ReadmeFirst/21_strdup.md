@@ -35,3 +35,14 @@ strdup toma una cadena de caracteres y crea una copia exacta en una nueva ubicac
 >Copia cada carácter: 'H', 'o', 'l', 'a', ' ', 'M', 'u', 'n', 'd', 'o', '\0'.
 
 **Devuelve un puntero a la nueva cadena**: *"Hola Mundo".*
+
+### PRUEBA UN MAIN
+```
+int main() {
+	char	str[] = "Hola Mundo";
+	char	*copy = ft_strdup(str);
+	
+	printf("%s\n", copy);
+	return (0);
+}
+```
