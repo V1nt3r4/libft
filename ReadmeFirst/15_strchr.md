@@ -41,3 +41,16 @@ strchr busca un carácter específico dentro de una cadena de caracteres y devue
 
 **Resultado**:
 *Retorna un puntero al carácter 'M' en la cadena "Hola Mundo".*
+
+### PRUEBA UN MAIN
+```
+int main() {
+	char	str[] = "Finis Mundi";
+	char	c = 'M';
+	char	*result = ft_strchr(str, c);
+	
+	printf("El carácter %c se encontró en la posición %ld\n", c, result - str);
+
+	return (0);
+}
+```
