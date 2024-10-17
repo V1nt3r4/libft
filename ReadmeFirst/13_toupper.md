@@ -3,7 +3,7 @@
 ``` int	ft_toupper(int c) ```
 
 ahora un respiro, ésta es fácil.
-## Filosofemos
+## Filosofemos  
 Imagina que toupper es como un mago que convierte letras pequeñas en grandes con un toque mágico.
 
 **¿Qué hace toupper?**
