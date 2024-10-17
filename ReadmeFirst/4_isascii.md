@@ -1,5 +1,5 @@
 # ISASCII 💻
-## Pototipo de la función
+## Prototipo
 ```int	ft_isascii(int c)```
 
 ### Filosofemos ¿Qué es isascii? 🚬🌿
