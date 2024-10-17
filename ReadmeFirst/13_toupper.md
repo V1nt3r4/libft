@@ -29,3 +29,16 @@ toupper convierte un carácter en su equivalente en mayúscula, si es una letra 
 
 >Resultado: 'A'
 
+### PRUEBA UN MAIN
+```
+int main() {
+	char	a = 'a';
+	char	result;
+
+	result = ft_toupper(a);
+	printf("Carácter original: %c\n", a);
+	printf("Carácter convertido: %c\n", result);
+
+	return (0);
+}
+``` 
