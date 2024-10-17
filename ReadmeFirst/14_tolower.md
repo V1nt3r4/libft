@@ -27,3 +27,15 @@ tolower convierte un carácter en su equivalente en minúscula, si es una letra 
 >Proceso: El mago dice: "Es mayúscula, ¡abracadabra!", y lo transforma en 'a'.
 
 **Resultado**: *'a'*
+
+### PRUEBA UN MAIN
+```
+int main() {
+	char	a = 'A';
+	char	result = ft_tolower(a);
+
+	printf("original: %c\n, convertido: %c\n", a, result);
+	
+	return 0;
+}
+```
