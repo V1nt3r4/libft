@@ -1,8 +1,8 @@
 # MEMSET 🎨
-### Prototipo
+## Prototipo
 ```  void *memset(void *s, int c, size_t n); ```
 
-### Filosofemos
+### Filosofemos  🚬🌿
 Piensa en memset como una brocha de pintura mágica que puede llenar una región de memoria con el 
 mismo color, o en este caso, con el mismo valor.
 
