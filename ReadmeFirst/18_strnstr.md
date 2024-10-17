@@ -40,3 +40,20 @@ Imagina que strnstr es como un detective con una lupa mágica que solo puede bus
 
 **Resultado**:
 *Retorna un puntero al inicio de la subcadena "Mun" en la cadena "Hola Mundo" dentro de los primeros 9 caracteres.*
+
+### PRUEBA UN MAIN
+```
+int main() {
+	char	str[] = "Hola Mundo";
+	char	sub[] = "Mun";
+	size_t	n = '9';
+	char	*result = ft_strnstr(str, sub, 9);
+
+	if(result)
+		printf("La subcadena '%s' se encontró en la posición: %ld\n", sub, result - str);
+	else
+		printf("No se encontró");
+
+	return (0);
+}
+```
