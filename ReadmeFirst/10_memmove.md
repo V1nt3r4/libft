@@ -2,7 +2,7 @@
 ## Prototipo
 ``` void *ft_memmove(void *dest, const void *src, size_t n) ```
 
-### Filosofemos 🚬🌿
+## Filosofemos 🚬🌿
 Piensa en memmove como un grupo de amigos ayudando a mover cosas de un casillero a otro, pero con mucho cuidado de no pisarse los dedos. 
 memmove es especial porque puede manejar situaciones donde los casilleros de origen y destino se solapan.
 
