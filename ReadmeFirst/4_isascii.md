@@ -2,7 +2,7 @@
 ## Pototipo de la función
 ```int	ft_isascii(int c)```
 
-### Filosofémos
+### Filosofemos ¿Qué es isdigit? 🚬🌿
 Su trabajo es veerificar si el  ccaraacter que entra es una letra o un número. Si lo es, devuelve 1,
 permitiendo la entrada. Si no, devuelve 0.
 
