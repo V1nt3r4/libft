@@ -1,7 +1,7 @@
 # STRDUP 📄✨📃
 ## Prototipo
 ``` char	*ft_strdup(const char *s) ```
-## Filosofemos 
+## Filosofemos 🚬🌿
 magina que strdup es como una fotocopiadora mágica para cadenas de texto. Tienes una página con algo escrito y necesitas hacer una copia exacta de esa página.
 
 **¿Qué hace strdup?**
