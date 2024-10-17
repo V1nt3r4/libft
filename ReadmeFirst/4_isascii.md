@@ -2,7 +2,7 @@
 ## Prototipo
 ```int	ft_isascii(int c)```
 
-### Filosofemos ¿Qué es isascii? 🚬🌿
+## Filosofemos 🚬🌿
 La función isascii es como un portero en el "Club ASCII". Este portero tiene la tarea de verificar si un carácter que quiere entrar pertenece al conjunto de caracteres ASCII estándar, que son aquellos con valores entre 0 y 127. Si el carácter está dentro de este rango, el portero dice "¡Sí, claro, pasa!", y isascii devuelve 1. Si no está dentro de este rango, el portero dice "Lo siento, colega, no puedes entrar aquí", y isascii devuelve 0.
 
 ### Ejemplo
