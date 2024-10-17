@@ -2,7 +2,7 @@
 ## Prototipo
 ``` void	*ft_calloc(size_t nmemb, size_t size) ```
 
-## Filosofemos
+## Filosofemos 🚬🌿
 Imagina que calloc es un camarero en un bar que prepara bandejas limpias y listas para usarse, con la cantidad exacta de vasos que necesitas, todos perfectamente limpios y en su lugar.
 
 **¿Qué hace calloc?**
