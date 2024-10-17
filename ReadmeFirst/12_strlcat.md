@@ -46,4 +46,16 @@ strlcat combina dos cadenas de caracteres: une una cadena de destino con una cad
 
 ### PRUEBA ESTE MAIN
 ```
+int main() {
+	char	dst[20] = "Hola";
+	char	src[] = "Mundo!!!";
+
+	size_t	result = ft_strlcat(dst, src, sizeof(dst));
+
+	printf("La cadena combinada es: %s\n", dst);
+	printf("La longitud de la cadena resultante: %zu\n", result);
+
+	return(0);
+}
+```
 
