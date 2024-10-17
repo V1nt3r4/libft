@@ -1,4 +1,4 @@
-# STRRCHR
+# STRRCHR 🔍🏴‍☠️🔚
 ## Prototipo
 ``` char	*ft_strrchr(const char *s, int c) ```
 
@@ -40,3 +40,20 @@ strrchr busca un carácter específico dentro de una cadena de caracteres y devu
 **Resultado**:
 *Retorna un puntero al carácter 'o' en la última aparición en la cadena "Hola Mundo Hola".*
 
+### PRUEBA UN MAIN
+```
+int main() {
+	char 	*str = "Finis Mundi";
+	char	ch = 'n';
+	char	*result;
+	
+	result = ft_strrchr(str, ch);
+	
+	if(result)
+		printf("El carácter '%c' se encontró en la posición %ld\n", ch, result - str);
+	else
+		printf("No se encontró rey");
+		
+	return (0);
+}
+```
