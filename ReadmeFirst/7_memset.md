@@ -40,17 +40,15 @@ memset llena un bloque de memoria con un valor específico.
 ### PRUEBA UN MAIN
 ```
  int main()  {
-	char arr[10] = {1, 2, 3, 4, 5, 6, 7};
-	int		i = 0;
-	size_t	j = strlen(arr);
-
-	memset(arr, 'A', j);
-
-	while (i < j) {
-		printf("%c", arr[i]);
-		i++;
-	}
-	printf("\n");
-	return 0;
- }
+char arr[10] = {1, 2, 3, 4, 5, 6, 7};
+int		i = 0;
+size_t	j = strlen(arr);
+memset(arr, 'A', j);
+while (i < j) {
+	printf("%c", arr[i]);
+	i++;
+}
+printf("\n");
+return 0;
+}
 ```
