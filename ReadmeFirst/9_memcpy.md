@@ -8,7 +8,7 @@ Tienes un montón de cosas en el casillero de origen, y quieres copiarlas exacta
 **¿Qué hace memcpy?**
 memcpy copia una cantidad específica de datos desde un área de memoria (origen) a otra (destino).
 
-### Cómo funciona:
+## Cómo funciona:
 **Inicio**: Tienes dos casilleros de memoria: uno de origen (donde están tus cosas) y otro de destino (donde quieres copiar esas cosas).
 
 **El Encargado de la Mudanza**: memcpy toma nota de cuántas cosas (bytes) necesitas mover.
