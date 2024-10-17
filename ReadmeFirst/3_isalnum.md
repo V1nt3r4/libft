@@ -1,6 +1,6 @@
 # ISALNUM   <🔡/🔢>
 
-### prototipo de la función
+## Prototipo
 ```int ft_isalnumm(int c)```
 ### Filosofemos ¿Qué es isdigit? 🚬🌿
 isalnum es como el portero de un club llamado "Club Alfanumérico". Este portero tiene una misión sencilla: decidir si el carácter que quiere entrar es una letra del alfabeto (A-Z, a-z) o un número (0-9).
