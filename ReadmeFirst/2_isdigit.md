@@ -4,7 +4,7 @@
 
 ``` int ft_isdigit(int c)```
 
-## Entrada del Club:
+## Pasos claves
 
 . **Carácter**: Tienes un carácter, digamos **'c'**, que quiere entrar al club.
 
