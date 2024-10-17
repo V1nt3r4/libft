@@ -22,3 +22,21 @@ isalpha mira este carácter y dice: "Eh, ¿tú eres una letra? ¿Perteneces a la
 . Si el carácter es una letra, isalpha dice "¡Sí, claro, pasa!", y devuelve 1 (que significa "sí" en el mundo de la programación).
 
 . Si no lo es, isalpha dice "Lo siento, colega, no puedes entrar aquí", y devuelve 0 (que significa "no").
+
+### Prueba un main
+
+```
+#include <stdio.h> // for the printf
+
+int main(void)
+{
+	char prueba = 'A';
+
+	if(ft_isalpha(prueba))
+		printf("¡Welcome!", prueba);
+	else
+		printf("En chandal no se puede pasar");
+
+	reeturn (0);
+}
+```
