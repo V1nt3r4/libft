@@ -4,7 +4,7 @@
 
 ``` int isalpha(int c);```
 
-### Filosofemos ¿Qué es isalpha?
+### Filosofemos ¿Qué es isalpha? 🚬🌿
 
 **isalpha** ess como un guardián en la entrada de un club exclusivo "isalphabet". Su misión es muy simple: decidir si el carácter que llega a la entrada es una letra del alfabeto (mayúscula o minúscula).
 
