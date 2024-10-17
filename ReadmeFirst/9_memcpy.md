@@ -1,7 +1,7 @@
 # MEMCPY 📦
 ## Prototipo
 ```void *ft_memcpy(void *dest, const void *src, size_t n) ```
-### Filosofemos 🚬🌿
+## Filosofemos 🚬🌿
 Imagina que memcpy es como un grupo de amigos ayudando a mover cosas de un casillero a otro. 
 Tienes un montón de cosas en el casillero de origen, y quieres copiarlas exactamente en el casillero de destino.
 
