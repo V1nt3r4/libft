@@ -2,7 +2,7 @@
 ## Prototipo
 ``` char	*ft_strchr(const char *s, int c) ```
 
-## Filosofemos 
+## Filosofemos 🚬🌿
 Piensa en strchr como un buscador de tesoros en un mapa de caracteres. Su misión es encontrar la primera aparición de un carácter específico en una cadena y decirte dónde está escondido.
 
 **¿Qué hace strchr?**
