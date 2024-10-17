@@ -1,6 +1,6 @@
 # ISDIGIT <1⃣>
 
-### Prototipo de función
+## Prototipo
 
 ``` int ft_isdigit(int c)```
 ### Filosofemos ¿Qué es isdigit? 🚬🌿
