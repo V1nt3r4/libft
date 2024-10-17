@@ -14,11 +14,11 @@ strdup toma una cadena de caracteres y crea una copia exacta en una nueva ubicac
 
 ### Hacer la Copia:
 
->La fotocopiadora mide la longitud de la página original para saber cuánta memoria necesita.
+- La fotocopiadora mide la longitud de la página original para saber cuánta memoria necesita.
 
->Asigna memoria suficiente para la copia.
+- Asigna memoria suficiente para la copia.
 
->Copia cada carácter de la página original a la nueva página.
+- Copia cada carácter de la página original a la nueva página.
 
 **Resultado**: *Devuelve un puntero a la nueva página (la copia exacta de la cadena original).*
 
