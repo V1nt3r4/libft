@@ -1,4 +1,4 @@
-# isprint
+# ISPRINT
 ## Prototipo
 ``` int ft_siprint(c) ```
 
