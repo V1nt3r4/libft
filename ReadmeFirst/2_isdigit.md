@@ -6,9 +6,10 @@
 
 ## Pasos claves
 
-. **Carácter**: Tienes un carácter, digamos **'c'**, que quiere entrar al club.
+### Carácter
+Tienes un carácter, digamos **'c'**, que quiere entrar al club.
 
-. **Revisión de Seguridad**:
+### Revisión de Seguridad
 
 isdigit mira este carácter y dice: "Eh, ¿tú eres un número del 0 al 9?"
 
