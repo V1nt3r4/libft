@@ -19,7 +19,7 @@ tolower convierte un carácter en su equivalente en minúscula, si es una letra 
 
 - Si el carácter no es una letra mayúscula, el mago no hace nada y lo deja igual.
 
-**Resultado**: Devuelve el carácter (ya sea transformado o no).
+**Resultado**: *Devuelve el carácter (ya sea transformado o no).*
 
 ### Ejemplo:
 >Carácter: 'A'
