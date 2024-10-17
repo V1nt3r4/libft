@@ -49,3 +49,17 @@ strncmp compara los primeros n caracteres de dos cadenas de texto. Devuelve un v
 
 > *Devuelve 0.*
 
+### PRUEBA UN MAIN
+```
+int main() {
+	char	arr1[] = "Hola";
+	char	arr2[] = "Holando";
+	int		n = 4;
+	int		result;
+	
+	result = strncmp(arr1, arr2, 4);
+	
+	if(result == 0)
+		printf("Las cadenas son iguales en los primeros %d carácteres.\n", n);
+}
+```
