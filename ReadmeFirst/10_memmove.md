@@ -54,3 +54,18 @@ memmove copia una cantidad específica de datos desde un área de memoria (orige
 
 **Resultado**:
 *El destino ahora tiene una copia exacta del origen: [ A, B, C, D, E ] o maneja el solapamiento correctamente.*
+
+### Prueba un main
+```
+int main() {
+	char	buffer[20] = "OverloapExample";
+	char	*src = buffer + 5;
+	char	*dst = buffer + 2;
+	
+	memmove(dst, src, 10);
+
+	printf("%s", buffer);
+
+	return (0); 
+}
+``` 
