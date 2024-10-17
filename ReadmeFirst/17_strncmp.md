@@ -2,7 +2,7 @@
 ## Prototipo
 ``` int	ft_strncmp(const char *s1, const char *s2, size_t n) ```
 
-## Filosofemos 
+## Filosofemos 🚬🌿
 Imagina que strncmp es como un juez imparcial en una competición de cadenas. Este juez compara dos cadenas de texto hasta un cierto número de caracteres y decide si son iguales, cuál es mayor o cuál es menor.
 
 **¿Qué hace strncmp?** 
