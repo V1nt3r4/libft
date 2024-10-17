@@ -1,4 +1,4 @@
-# TOUPPER
+# TOUPPER 🔡✨🔠
 ## Prototipo
 ``` int	ft_toupper(int c) ```
 
