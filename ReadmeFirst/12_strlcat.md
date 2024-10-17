@@ -43,3 +43,7 @@ strlcat combina dos cadenas de caracteres: une una cadena de destino con una cad
 
 **Resultado**:
 *Destino: "Hola Mundo\0"*
+
+### PRUEBA ESTE MAIN
+```
+
