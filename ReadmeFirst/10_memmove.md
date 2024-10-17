@@ -9,7 +9,7 @@ memmove es especial porque puede manejar situaciones donde los casilleros de ori
 **¿Qué hace memmove?***
 memmove copia una cantidad específica de datos desde un área de memoria (origen) a otra (destino), y lo hace con mucho cuidado si hay solapamiento entre las dos áreas.
 
-### Cómo funciona:
+## Cómo funciona:
 **Inicio**: Tienes dos casilleros de memoria: uno de origen (donde están tus cosas) y otro de destino (donde quieres copiar esas cosas).
 
 **El Encargado Cuidadoso de la Mudanza**: memmove toma nota de cuántas cosas (bytes) necesitas mover y verifica si el origen y el destino se solapan.
