@@ -2,7 +2,7 @@
 ## Prototipo
 ``` size_t ft_strlcpy(char *dst, const char *src, size_t size) ```
 
-### Filosofemos
+### Filosofemos 🚬🌿
 Piensa en strlcpy como un chef cuidadoso que transfiere los ingredientes de una receta a un nuevo cuaderno, asegurándose de no sobrescribir o desbordar nada.
 
 **¿Qué hace strlcpy?**
