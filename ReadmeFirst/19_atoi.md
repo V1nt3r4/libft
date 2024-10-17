@@ -1,8 +1,8 @@
-# ATOI
+# ATOI 🔢✨🔣
 ## Prototipoo de la función
 ``` int	ft_atoi(const char *nptr) ```
 
-## Filosofemos
+## Filosofemos 🚬🌿
 Imagina que atoi es como un mago que puede convertir palabras mágicas (cadenas de texto) en números reales. Aquí va la explicación para que lo entiendas de manera relajada:
 
 **¿Qué hace atoi?**
