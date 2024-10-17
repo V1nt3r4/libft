@@ -46,3 +46,14 @@ atoi toma una cadena de caracteres que representa un número y la convierte en u
 >Aplica el signo negativo: -1234
 
 **Devuelve**: *-1234*
+
+### PRUEBA UN MAIN
+```
+int main() {
+	char	str[] =  "   -1234abc";
+	int		result = ft_atoi(str);
+
+	printf("La cadena '%s' se convierte en el valor %d\n", str, result);
+	return (0);
+}
+```
