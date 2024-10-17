@@ -8,7 +8,7 @@ Piensa en strlcpy como un chef cuidadoso que transfiere los ingredientes de una 
 **¿Qué hace strlcpy?**
 strlcpy copia una cadena de caracteres desde un origen a un destino, asegurándose de que no se sobrepase el tamaño del destino y que siempre haya un carácter nulo ('\0') al final.
 
-### Cómo funciona:
+## Cómo funciona:
 **Inicio**: Tienes dos cadenas de texto: una de origen con la receta completa y una de destino que puede que sea más pequeña.
 
 **El Chef Cuidadoso**: strlcpy empieza a copiar los ingredientes (caracteres) de la receta desde el origen al destino.
