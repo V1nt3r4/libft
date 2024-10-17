@@ -39,11 +39,11 @@ memcpy copia una cantidad específica de datos desde un área de memoria (origen
 ### PRRUEBA ESTE MAIN
 ```
 int main() {
-	char src[] = "Cómo están los máquinas";
-	char dest[50];
-	int		i = 0;
-	ft_memcpy (dest, src, strlen(src));
-	while (i < strlen(dest)){printf("%c", dest[i]), i++;}
-	return (0);
+char src[] = "Cómo están los máquinas";
+char dest[50];
+int		i = 0;
+ft_memcpy (dest, src, strlen(src));
+while (i < strlen(dest)){printf("%c", dest[i]), i++;}
+return (0);
 }
 ```
