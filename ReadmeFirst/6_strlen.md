@@ -1,5 +1,5 @@
 # STRLEN 📏
-### Prototipo
+## Prototipo
 ``` size_t strlen(const char *s); ```
 
 ### Filosofemos
