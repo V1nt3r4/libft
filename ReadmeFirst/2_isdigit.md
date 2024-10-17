@@ -1,6 +1,6 @@
 # ISDIGIT <1⃣>
 
-## Prototipo de función
+### Prototipo de función
 
 ``` int ft_isdigit(int c)```
 
