@@ -1,4 +1,4 @@
-### ISALNUM   <🔡/🔢>
+# ISALNUM   <🔡/🔢>
 
 ## prototipo de la función
 ```int ft_isalnumm(int c)```
