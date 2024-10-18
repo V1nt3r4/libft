@@ -1,4 +1,4 @@
-# Libft - 42School 🌟
+# Libft - 42
 
 ## Descripción del Proyecto
 Bienvenido a **Libft**! Este proyecto es tu primer paso en el viaje por el vasto océano del lenguaje C en 42School. Aquí crearás tu propia librería que replicará las funciones estándar de C, dándole un toque personal y entendiendo a fondo su funcionamiento. 🌊📚
@@ -7,6 +7,10 @@ Bienvenido a **Libft**! Este proyecto es tu primer paso en el viaje por el vasto
 - **Funciones de manipulación de cadenas**: Ya no más `strcpy` y `strcmp` de terceros, lo hacemos nosotros. 🔄
 - **Manipulación de memoria**: `malloc` y `free` serán tus nuevos mejores amigos. 💾
 - **Listas enlazadas**: Porque arrays son muy mainstream. 😎🔗
+
+## Documentación 📄
+Para más detalles, visita la carpeta de [ReadmeFirst].
+
 
 ## Requisitos del Sistema
 - Sistema operativo: Unix-based (Linux, macOS) 🐧🍏
