@@ -1,4 +1,4 @@
-# Libft - 42
+# Libft - 42 📚
 
 ![C Programming](https://img.shields.io/badge/Language-C-blue)
 ![42School](https://img.shields.io/badge/42School-Project-blue)
