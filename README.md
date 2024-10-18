@@ -1,11 +1,11 @@
-# Libft - 42School
+# Libft - 42
 
 ![C Programming](https://img.shields.io/badge/Language-C-blue)
 ![42School](https://img.shields.io/badge/42School-Project-blue)
 
 ## Description
 
-**Libft** is a custom implementation of essential C standard library functions. This project is part of the 42School curriculum and aims to deepen understanding of fundamental concepts in the C programming language by re-implementing commonly used functions from `<string.h>`, `<ctype.h>`, and other libraries. It is the foundation for future projects at 42, where having a strong grasp of C basics is crucial.
+**Libft** is a custom implementation of essential C standard library functions. This project is part of the 42 curriculum and aims to deepen understanding of fundamental concepts in the C programming language by re-implementing commonly used functions from `<string.h>`, `<ctype.h>`, and other libraries. It is the foundation for future projects at 42, where having a strong grasp of C basics is crucial.
 
 ## Project Objectives
 
