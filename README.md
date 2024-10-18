@@ -14,7 +14,7 @@
 - Develop skills to work with pointers and data structures.
 - Build a solid foundation for future C projects in the 42 curriculum.
 
-  ## Contribute and Recreate the Project
+## Contribute and Recreate the Project
 
 Would you like to recreate or contribute to this project? You're welcome to explore and build your own version of **Libft**! To get started, we highly encourage you to consult the detailed documentation available in the [`ReadmeFirst`](ReadmeFirst/) folder, where you'll find:
 
