@@ -28,7 +28,8 @@ tolower convierte un carácter en su equivalente en minúscula, si es una letra 
 
 **Resultado**: *'a'*
 
-### PRUEBA UN MAIN
+>[!TIP]
+> PRUEBA UN MAIN
 ```
 int main() {
 	char	a = 'A';
