@@ -33,7 +33,9 @@ Imagina que strlen es una cinta métrica mágica para contar letras en una caden
 
 >>Resultado: La longitud de "Hola" es 4.
 
-### PRUEBA UN MAIN
+>[!TIP]
+> PRUEBA UN MAIN
+
 ```
 int main() {
   char str[] = "Hola!";
