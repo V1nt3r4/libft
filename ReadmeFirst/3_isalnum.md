@@ -8,5 +8,6 @@ isalnum es como el portero de un club llamado "Club Alfanumérico". Este portero
 **isalnum** simplemente verifica si un caracter es una letra o un número. Si es así, lo deja pasar.
 Si no lo es, no.
 
-###  PRUEBA ESTE MAIN
+>[!TIP]
+> PRUEBA UN MAIN
 ... no te lo vas a creer, es igual a las dos anteriores. 
