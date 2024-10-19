@@ -21,5 +21,6 @@ isdigit mira este carácter y dice: "Eh, ¿tú eres un número del 0 al 9?"
 
 . Si no lo es, isdigit dice "Lo siento, colega, no puedes entrar aquí", y devuelve 0 (que significa "no").
 
-### USA ESTE MAIN:
+>[!TIP]
+> PRUEBA UN MAIN
 ...ES LO MISMO QUE ANTES CON NÚMEROS 🤡.
