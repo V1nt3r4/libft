@@ -47,7 +47,8 @@ atoi toma una cadena de caracteres que representa un número y la convierte en u
 
 **Devuelve**: *-1234*
 
-### PRUEBA UN MAIN
+>[!TIP]
+> PRUEBA UN MAIN
 ```
 int main() {
 	char	str[] =  "   -1234abc";
