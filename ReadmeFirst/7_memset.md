@@ -37,7 +37,8 @@ memset llena un bloque de memoria con un valor específico.
 **Resultado**:
 *Todos los casilleros están llenos con el valor 0.*
 
-### PRUEBA UN MAIN
+>[!TIP]
+> PRUEBA UN MAIN
 ```
  int main()  {
 char arr[10] = {1, 2, 3, 4, 5, 6, 7};
