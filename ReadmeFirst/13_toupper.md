@@ -29,7 +29,8 @@ toupper convierte un carácter en su equivalente en mayúscula, si es una letra 
 
 >Resultado: 'A'
 
-### PRUEBA UN MAIN
+>[!TIP]
+> PRUEBA UN MAIN
 ```
 int main() {
 	char	a = 'a';
