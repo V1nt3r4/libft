@@ -1,4 +1,4 @@
-# Libft - 42 📚
+![libft-dark](https://github.com/user-attachments/assets/6d092f7c-995b-43e3-ae39-6fb372bd08b9)
 
 ![C Programming](https://img.shields.io/badge/Language-C-blue)
 ![42School](https://img.shields.io/badge/42School-Project-blue)
