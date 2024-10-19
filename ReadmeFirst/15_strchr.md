@@ -42,7 +42,8 @@ strchr busca un carácter específico dentro de una cadena de caracteres y devue
 **Resultado**:
 *Retorna un puntero al carácter 'M' en la cadena "Hola Mundo".*
 
-### PRUEBA UN MAIN
+>[!TIP]
+> PRUEBA UN MAIN
 ```
 int main() {
 	char	str[] = "Finis Mundi";
