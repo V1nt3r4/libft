@@ -35,7 +35,8 @@ Inicio: Tienes un pedazo de memoria, imagina una fila de casilleros con cualquie
 **Resultado**:
 *Todos los casilleros están llenos con el valor 0.*
 
-### PRUEBA UN MAIN
+>[!TIP]
+> PRUEBA UN MAIN
 ```
 int main() {
 	char	arr[10] = "HolaMundo";
