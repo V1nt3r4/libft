@@ -12,7 +12,8 @@ La función isascii es como un portero en el "Club ASCII". Este portero tiene la
 
 200 (valor ASCII fuera de rango) → isascii(200) → 0
 
-##  PRUEBA UN MAIN 
+>[!TIP]
+> PRUEBA UN MAIN
 ```
 int main() {
   char prueba = '9';
