@@ -40,7 +40,9 @@ strrchr busca un carácter específico dentro de una cadena de caracteres y devu
 **Resultado**:
 *Retorna un puntero al carácter 'o' en la última aparición en la cadena "Hola Mundo Hola".*
 
-### PRUEBA UN MAIN
+>[!TIP]
+> PRUEBA UN MAIN
+
 ```
 int main() {
 	char 	*str = "Finis Mundi";
