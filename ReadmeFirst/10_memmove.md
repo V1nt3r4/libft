@@ -56,7 +56,8 @@ memmove copia una cantidad específica de datos desde un área de memoria (orige
 *El destino ahora tiene una copia exacta del origen: [ A, B, C, D, E ] o maneja el solapamiento correctamente.*
 
 >[!TIP]
->Prueba un main (con solapamiento, sino es un memcpy)```
+>Prueba un main (con solapamiento, sino es un memcpy)
+```
 int main() {
 char	buffer[20] = "OverloapExample";
 char	*src = buffer + 5;
