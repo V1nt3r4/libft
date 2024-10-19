@@ -23,7 +23,8 @@ isalpha mira este carácter y dice: "Eh, ¿tú eres una letra? ¿Perteneces a la
 
 . Si no lo es, isalpha dice "Lo siento, colega, no puedes entrar aquí", y devuelve 0 (que significa "no").
 
-### PRUEBA UN MAIN
+>[!TIP]
+> PRUEBA UN MAIN
 
 ```
 #include <stdio.h> // for the printf
