@@ -49,7 +49,8 @@ strncmp compara los primeros n caracteres de dos cadenas de texto. Devuelve un v
 
 > *Devuelve 0.*
 
-### PRUEBA UN MAIN
+>[!TIP]
+> PRUEBA UN MAIN
 ```
 int main() {
 	char	arr1[] = "Hola";
