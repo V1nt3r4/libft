@@ -36,7 +36,8 @@ memcpy copia una cantidad específica de datos desde un área de memoria (origen
 **Resultado**:
 *El destino ahora tiene una copia exacta del origen: [ A, B, C, D, E ].*
 
-### PRRUEBA ESTE MAIN
+>[!TIP]
+> PRUEBA UN MAIN
 ```
 int main() {
 char src[] = "Cómo están los máquinas";
