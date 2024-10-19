@@ -18,4 +18,5 @@ isprint('9') → "¡Sí, claro, pasa!" → devuelve 1.
 
 isprint('\n') → "Lo siento, colega, no puedes entrar aquí" → devuelve 0.
 
-### PRUEBA....YA TE LO SABES 👍
+>[!TIP]
+> PRUEBA....YA TE LO SABES 👍
