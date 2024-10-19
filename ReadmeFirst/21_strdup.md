@@ -36,7 +36,8 @@ strdup toma una cadena de caracteres y crea una copia exacta en una nueva ubicac
 
 **Devuelve un puntero a la nueva cadena**: *"Hola Mundo".*
 
-### PRUEBA UN MAIN
+>[!TIP]
+> PRUEBA UN MAIN
 ```
 int main() {
 	char	str[] = "Hola Mundo";
