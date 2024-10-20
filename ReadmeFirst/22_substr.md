@@ -30,5 +30,6 @@ Ejemplo:
 
 >Te devuelve la substring: "soy un"
 
->.[!TIP].
+
+> .[!TIP].
 > PRUEBA UN MAIN
