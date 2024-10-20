@@ -23,13 +23,32 @@ Ejemplo:
 
 **Longitud**: 6
 
-### Proceso:
+## Proceso:
 >Encuentra el punto de inicio (start): "Hola, soy una cadena de texto superlarga."
 
 >Cuenta el número de caracteres según len: "soy una cadena de texto superlarga."
 
 >Te devuelve la substring: "soy un"
 
+**Resultdo**
+*La substring resultante contiene exactamente la sección deseada: "soy un"*
 
-> .[!TIP].
+>[!TIP]
 > PRUEBA UN MAIN
+```
+int main() {
+    char            str[] = "Hola, soy una cadena de texto larga"
+    unsigned int    start = 7;
+    size_t          len = 6;
+
+    char    *substring = ft_substr(str, start, len);
+
+    if(substring)
+        printf("La substring es: %s\n", substring);
+        free(substring);
+    else
+        printf("Error al crear la subcadena\n");
+
+    return 0;
+}
+```
