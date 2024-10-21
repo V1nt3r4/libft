@@ -26,17 +26,17 @@ Identifica desde dónde empiezan y terminan los caracteres que no están en set 
 >Reserva memoria para la nueva cadena que solo contiene los caracteres entre estos dos puntos.
 
 ### Ejemplo:
-**s1**: "---Hola, Mundo---" set: "-"
+**s1**: "---συντέλεια---" set: "-"
 
 **Resultado**:
-*Nueva cadena: "Finis, Mundi"*
+*Nueva cadena: "συντέλεια"*
 
 >[!TIP]
 > PRUEBA UN MAIN
 
 ```
 int main() {
-	const char	s1[] = "---Finis, Mundi---";
+	const char	s1[] = "---συντέλεια---";
 	const char	set[] = "-";
 	char	*result = ft_strtrim(s1, set);
 	
