@@ -37,7 +37,7 @@ Ejemplo:
 > PRUEBA UN MAIN
 ```
 int main() {
-    char            str[] = "Hola, soy una cadena de texto larga"
+    char            str[] = "DESCENSO AL CIRCULO NONO: LOS GIGANTES EN TORNO AL POZO"
     unsigned int    start = 7;
     size_t          len = 6;
 
