@@ -29,7 +29,7 @@ Identifica desde dónde empiezan y terminan los caracteres que no están en set 
 **s1**: "---Hola, Mundo---" set: "-"
 
 **Resultado**:
-*Nueva cadena: "Hola, Mundo"*
+*Nueva cadena: "Finis, Mundi"*
 
 >[!TIP]
 > PRUEBA UN MAIN
