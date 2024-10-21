@@ -28,11 +28,11 @@ strdup toma una cadena de caracteres y crea una copia exacta en una nueva ubicac
 **Copia**: strdup("Hola Mundo")
 
 ## Proceso:
->La fotocopiadora mide la longitud: "Hola Mundo" tiene 10 caracteres (incluyendo el carácter nulo al final).
+>La fotocopiadora mide la longitud: "Finis Mundi" tiene 11 caracteres (incluyendo el carácter nulo al final).
 
 >Asigna suficiente memoria para 10 caracteres.
 
->Copia cada carácter: 'H', 'o', 'l', 'a', ' ', 'M', 'u', 'n', 'd', 'o', '\0'.
+>Copia cada carácter: 'F', 'i', 'n', 'i', 's',' ', 'M', 'u', 'n', 'd', 'i', '\0'.
 
 **Devuelve un puntero a la nueva cadena**: *"Hola Mundo".*
 
@@ -40,7 +40,7 @@ strdup toma una cadena de caracteres y crea una copia exacta en una nueva ubicac
 > PRUEBA UN MAIN
 ```
 int main() {
-	char	str[] = "Hola Mundo";
+	char	str[] = "Finis Mundi";
 	char	*copy = ft_strdup(str);
 	
 	printf("%s\n", copy);
