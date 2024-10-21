@@ -24,10 +24,10 @@ Se reserva espacio suficiente para s1, s2 y el carácter nulo de terminación (\
 >Añade el carácter nulo \0 al final de la nueva cadena.
 
 ### Ejemplo:
-**s1**: "Hola, " **s2**: "Mundo!"
+**s1**: "Finis, " **s2**: "Mundi!"
 
 **Resultado**:
-*Nueva cadena: "Hola, Mundo!"*
+*Nueva cadena: "Finis, Mundi!"*
 
 >[!TIP]
 > PRUEBA UN MAIN
