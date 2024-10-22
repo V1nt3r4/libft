@@ -62,21 +62,21 @@ The following is a list of functions that are part of this library, categorized 
 
 ### ɪɴᴘᴜᴛ/ᴏᴜᴛᴘᴜᴛ
 
-- `ft_putchar_fd`: Writes a character to a file descriptor.
-- `ft_putstr_fd`: Writes a string to a file descriptor.
-- `ft_putendl_fd`: Writes a string followed by a newline to a file descriptor.
-- `ft_putnbr_fd`: Writes an integer as a string to a file descriptor.
+- [**PUTCHAR_FD**](libft/ft_putchar_fd.c): Writes a character to a file descriptor.
+- [**PUTSTR_FD**](libft/ft_putstr_fd.c) : Writes a string to a file descriptor.
+- [**PUTENDL_FD**](libft/ft_putendl_fd.c) : Writes a string followed by a newline to a file descriptor.
+- [**PUTNBR_FD**](libft/ft_putnbt_fd) : Writes an integer as a string to a file descriptor.
 
 ### ᴄᴏɴᴠᴇʀꜱɪᴏɴ
 
-- `ft_atoi`: Converts a string to an integer.
-- `ft_itoa`: Converts an integer to a string.
+- [**ATOI**](libft/ft_atoi.c): Converts a string to an integer.
+- [**ITOA**](libft/ft_itoa.c): Converts an integer to a string.
 
 ### ᴏᴛʜᴇʀ ᴜᴛɪʟɪᴛʏ ꜰᴜɴᴄᴛɪᴏɴꜱ
 
-- `ft_calloc`: Allocates memory for an array of elements and initializes all bytes to zero.
+- [**CALLOC**](libft/ft_calloc.c): Allocates memory for an array of elements and initializes all bytes to zero.
 
 ### 𝗛𝗲𝗮𝗱𝗲𝗿 𝗮𝗻𝗱 𝗠𝗮𝗸𝗲𝗳𝗶𝗹𝗲
 
-- `libft.h`: Header file containing function prototypes and necessary includes.
-- `Makefile`: Script to automate the compilation of the library.
+- [**LIBFT.H**](libft/libft.h) : Header file containing function prototypes and necessary includes.
+- [**MAKEFILE**](libft/MAKEFILE) : Script to automate the compilation of the library.
