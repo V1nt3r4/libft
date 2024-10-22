@@ -18,17 +18,3 @@ int	ft_isalpha(int c)
 		return (0);
 	return (1);
 }
-
-/*
-int	main(void) {
-
-    int i = 'a';
-    
-    while (i <= 'z')
-    {
-        printf("%d", ft_isalpha(i));
-        i++;
-    }
-
-}
-*/
