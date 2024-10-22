@@ -34,13 +34,3 @@ void	*ft_memmove(void *dest, const void *src, size_t n)
 	}
 	return (dest);
 }
-// int	main(void)
-// {
-// 	char	*dst= ft_strdup("Hola mundo de mierda cabron me cagoento");
-// 	char	*src = dst + 5;
-
-// 	ft_memcpy(dst, src, 20);
-// 	printf("%s\n", dst);
-// 	free(dst);
-// 	return (0);
-// }
