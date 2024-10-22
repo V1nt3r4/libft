@@ -16,13 +16,9 @@
 
 ## ᴄᴏɴᴛʀɪʙᴜᴛᴇ ᴀɴᴅ ʀᴇᴄʀᴇᴀᴛᴇ ᴛʜᴇ ᴘʀᴏᴊᴇᴄᴛ
 
-Would you like to recreate or contribute to this project? You're welcome to explore and build your own version of **Libft**! To get started, we highly encourage you to consult the detailed documentation available in the [`ReadmeFirst`](ReadmeFirst/) folder, where you'll find:
+>[!IMPORTANT]
+> [**ReadmeFirst**](libft/ReadmeFirst) 
 
-- Step-by-step guides
-- Explanation of the functions and their implementation
-- Tips and best practices for building the library
-
-Feel free to open issues, suggest improvements, or fork the repository to create your own version. Your contributions and feedback are greatly appreciated!
 
 ## ꜰᴜɴᴄᴛɪᴏɴꜱ ɪɴᴄʟᴜᴅᴇᴅ
 
