@@ -27,9 +27,9 @@ The following is a list of functions that are part of this library, categorized 
 ### ꜱᴛʀɪɴɢ ᴍᴀɴɪᴘᴜʟᴀᴛɪᴏɴ
 
 - [**STRLEN**](libft/ft_strlen.c) : Calculates the length of a string.
-- [STRCHR](libft/ft_strchr.c) : Finds the first occurrence of a character in a string.
-- `ft_strrchr`: Finds the last occurrence of a character in a string.
-- `ft_strlcat`: Concatenates two strings, ensuring the result fits within a given size.
+- [**STRCHR**](libft/ft_strchr.c) : Finds the first occurrence of a character in a string.
+- [**STRRCHR**](libft/ft_strrchr.c) : Finds the last occurrence of a character in a string.
+- [**STRLCAT**](libft/ft_strlcat.c) : Concatenates two strings, ensuring the result fits within a given size.
 - `ft_strlcpy`: Copies a string to a destination with size limits.
 - `ft_strncmp`: Compares two strings up to a specified number of characters.
 - `ft_strdup`: Duplicates a string.
