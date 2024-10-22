@@ -53,12 +53,12 @@ The following is a list of functions that are part of this library, categorized 
 
 ### ᴍᴇᴍᴏʀʏ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ
 
-- `ft_memset`: Fills a block of memory with a specific value.
-- `ft_bzero`: Sets all bytes of a memory area to zero.
-- `ft_memcpy`: Copies a block of memory from one location to another.
-- `ft_memmove`: Similar to `ft_memcpy`, but handles overlapping memory areas.
-- `ft_memchr`: Searches for a specific byte in a block of memory.
-- `ft_memcmp`: Compares two blocks of memory.
+- [**MEMSET**](libft/ft_memset.c) : Fills a block of memory with a specific value.
+- [**BZERO**](libft/ft_bzero.c) : Sets all bytes of a memory area to zero.
+- [**MEMCPY**](libft/ft_memcpy.c) : Copies a block of memory from one location to another.
+- [**MEMMOVE**](libft/ft_memmove.c): Similar to `ft_memcpy`, but handles overlapping memory areas.
+- [**MEMCHR**](libft/ft_memchr.c) : Searches for a specific byte in a block of memory.
+- [**MEMCMP**](libft/ft_memcmp.c): Compares two blocks of memory.
 
 ### ɪɴᴘᴜᴛ/ᴏᴜᴛᴘᴜᴛ
 
