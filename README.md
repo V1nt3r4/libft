@@ -43,13 +43,13 @@ The following is a list of functions that are part of this library, categorized 
 
 ### ᴄʜᴀʀᴀᴄᴛᴇʀ ᴄʜᴇᴄᴋɪɴɢ ᴀɴᴅ ᴄᴏɴᴠᴇʀꜱɪᴏɴ
 
-- `ft_isalpha`: Checks if a character is alphabetic.
-- `ft_isdigit`: Checks if a character is a digit.
-- `ft_isalnum`: Checks if a character is alphanumeric.
-- `ft_isascii`: Checks if a character is in the ASCII table.
-- `ft_isprint`: Checks if a character is printable.
-- `ft_toupper`: Converts a lowercase character to uppercase.
-- `ft_tolower`: Converts an uppercase character to lowercase.
+- [**ISALPHA**](libft/ft_isalpha.c) : Checks if a character is alphabetic.
+- [**ISDIGIT**](libft/ft_isdigit.c): Checks if a character is a digit.
+- [**ISALNUM**](libft/ft_isalnum.c) : Checks if a character is alphanumeric.
+- [**ISASCII**](libft/ft_isascii.c) : Checks if a character is in the ASCII table.
+- [**ISPRINT**](libft/ft_isprint.c) : Checks if a character is printable.
+- [**TOUPPER**](libft/ft_toupper.c): Converts a lowercase character to uppercase.
+- [**TOLOWER**](libft/ft_tolower.c) : Converts an uppercase character to lowercase.
 
 ### ᴍᴇᴍᴏʀʏ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ
 
