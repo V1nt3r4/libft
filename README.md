@@ -79,4 +79,4 @@ The following is a list of functions that are part of this library, categorized 
 ### 𝗛𝗲𝗮𝗱𝗲𝗿 𝗮𝗻𝗱 𝗠𝗮𝗸𝗲𝗳𝗶𝗹𝗲
 
 - [**LIBFT.H**](libft/libft.h) : Header file containing function prototypes and necessary includes.
-- [**MAKEFILE**](libft/MAKEFILE) : Script to automate the compilation of the library.
+- [**MAKEFILE**](libft/Makefile) : Script to automate the compilation of the library.
