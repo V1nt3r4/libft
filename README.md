@@ -17,7 +17,7 @@
 ## ᴄᴏɴᴛʀɪʙᴜᴛᴇ ᴀɴᴅ ʀᴇᴄʀᴇᴀᴛᴇ ᴛʜᴇ ᴘʀᴏᴊᴇᴄᴛ
 
 >[!IMPORTANT]
-> [**ReadmeFirst**](libft/ReadmeFirst) 
+> [**ReadmeFirst**](ReadmeFirst) 
 
 
 ## ꜰᴜɴᴄᴛɪᴏɴꜱ ɪɴᴄʟᴜᴅᴇᴅ
