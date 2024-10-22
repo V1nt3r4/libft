@@ -26,7 +26,7 @@ The following is a list of functions that are part of this library, categorized 
 
 ### ꜱᴛʀɪɴɢ ᴍᴀɴɪᴘᴜʟᴀᴛɪᴏɴ
 
-- `ft_strlen`: Calculates the length of a string.
+- `[ft_strlen](ft_strlen.c)`: Calculates the length of a string.
 - `ft_strchr`: Finds the first occurrence of a character in a string.
 - `ft_strrchr`: Finds the last occurrence of a character in a string.
 - `ft_strlcat`: Concatenates two strings, ensuring the result fits within a given size.
