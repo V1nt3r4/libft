@@ -30,16 +30,16 @@ The following is a list of functions that are part of this library, categorized 
 - [**STRCHR**](libft/ft_strchr.c) : Finds the first occurrence of a character in a string.
 - [**STRRCHR**](libft/ft_strrchr.c) : Finds the last occurrence of a character in a string.
 - [**STRLCAT**](libft/ft_strlcat.c) : Concatenates two strings, ensuring the result fits within a given size.
-- `ft_strlcpy`: Copies a string to a destination with size limits.
-- `ft_strncmp`: Compares two strings up to a specified number of characters.
-- `ft_strdup`: Duplicates a string.
-- `ft_strnstr`: Finds the first occurrence of a substring within a string.
-- `ft_strjoin`: Concatenates two strings into a new one.
-- `ft_strtrim`: Removes leading and trailing whitespace from a string.
-- `ft_substr`: Extracts a substring from a string.
-- `ft_split`: Splits a string into an array of substrings based on a delimiter.
-- `ft_strmapi`: Applies a function to each character of a string.
-- `ft_striteri`: Iterates through a string and applies a function to each character.
+- [**STRLCPY**](libft/ft_strlcpy.c) : Copies a string to a destination with size limits.
+- [**STRNCMP**](libft/ft_strncmp.c) : Compares two strings up to a specified number of characters.
+- [**STRDUP**](libft/ft_strdup.c) : Duplicates a string.
+- [**STRNSTR**](ft_strnstr.c) : Finds the first occurrence of a substring within a string.
+- [**STRJOIN**](libft/ft_strjoin.c) : Concatenates two strings into a new one.
+- [**STRTRIM**](libft/ft_strtrim.c) : Removes leading and trailing whitespace from a string.
+- [**SUBSTR**](libft/ft_substr.c) : Extracts a substring from a string.
+- [**SPLIT**](libft/ft_split.c) : Splits a string into an array of substrings based on a delimiter.
+- [**STRMAPI**](libft/ft_strmapi.c): Applies a function to each character of a string.
+- [**STRITERI**](libft/ft_striteri.c) : Iterates through a string and applies a function to each character.
 
 ### ᴄʜᴀʀᴀᴄᴛᴇʀ ᴄʜᴇᴄᴋɪɴɢ ᴀɴᴅ ᴄᴏɴᴠᴇʀꜱɪᴏɴ
 
