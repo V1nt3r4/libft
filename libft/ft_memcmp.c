@@ -31,38 +31,3 @@ int	ft_memcmp(const void *s1, const void *s2, size_t n)
 	}
 	return (0);
 }
-
-// size_t ft_strlen(char *str);
-
-// int main(){
-//     char *str1 = "holaweqwe";
-//     char *str2 = "oasdqq";
-//     int result = ft_memcmp(str1, str2, 0);
-//      int result2 = memcmp(str1, str2, 0);
-
-//         if (result == 0) {
-//         printf("Los bloques de memoria son iguales.\n");
-//     } else if (result < 0) {
-//         printf("El bloque de memoria s1 es menor que el bloque s2.\n");
-//     } else {
-//         printf("El bloque de memoria s1 es mayor que el bloque s2.\n");
-//     }
-
-//     if (result2 == 0) {
-//         printf("Los bloques de memoria son iguales.\n");
-//     } else if (result2 < 0) {
-//         printf("El bloque de memoria s1 es menor que el bloque s2.\n");
-//     } else {
-//         printf("El bloque de memoria s1 es mayor que el bloque s2.\n");
-//     }
-
-//     return (0);
-// }
-
-// size_t ft_strlen(char *str)
-// {
-//     size_t i;
-//     while(str[i] != '\0')
-//         i++;
-//     return (i);
-// }
