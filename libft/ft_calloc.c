@@ -22,13 +22,3 @@ void	*ft_calloc(size_t nmemb, size_t size)
 	ft_bzero(ptr, nmemb * size);
 	return (ptr);
 }
-
-int main() {
-	int		*arr = (int *)calloc(5, sizeof(int));
-	int		i = 0;
-	
-	while(i < 5){
-		printf("%d\n", arr[i]);
-		i++;
-	}
-}
