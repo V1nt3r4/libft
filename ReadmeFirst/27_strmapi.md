@@ -3,7 +3,7 @@
 ``` char *ft_strmapi(char const *s, char (*f)(unsigned int, char)); ```
 
 >[!NOTE]
-> ## Filosofemos
+> ## Filosofemos  🚬🌿
 > Piensa en strmapi como un lugar donde cada letra tiene una pequeña transformación personalizada. Cada vez que pasa por el alfarero (**f**), puede salir con una forma diferente. Quizá cambias una letra por otra, o le añades algo especial. El índice es importante porque te dice qué letra estás modificando y te puede ayudar a decidir cómo lo haces.
 >
 >Por ejemplo, podrías tener una función (**f**) que transforme las vocales en mayúsculas solo si están en posición par, o que convierrta cada letra en su siguiente en el alfabeto.
