@@ -1,0 +1,20 @@
+digraph ft_lstadd_back {
+    node [shape=box, style=rounded];
+
+    start [label="Inicio"];
+    check_new [label="¿new es NULL?"];
+    end [label="Fin"];
+    check_lst [label="¿*lst es NULL?"];
+    assign_new [label="Asignar *lst = new"];
+    find_last [label="Buscar el último nodo usando ft_lstlast"];
+    assign_last [label="Asignar last->next = new"];
+
+    start -> check_new;
+    check_new -> end [label="Sí"];
+    check_new -> check_lst [label="No"];
+    check_lst -> assign_new [label="Sí"];
+    check_lst -> find_last [label="No"];
+    assign_new -> end;
+    find_last -> assign_last;
+    assign_last -> end;
+}
