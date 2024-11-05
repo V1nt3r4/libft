@@ -6,7 +6,7 @@
 /*   By: ari <ari@student.42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/04 20:12:21 by ari               #+#    #+#             */
-/*   Updated: 2024/11/04 23:19:00 by ari              ###   ########.fr       */
+/*   Updated: 2024/11/05 20:33:22 by ari              ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -19,6 +19,7 @@ t_list *ft_lstnew(void *content)
     nodo = malloc(sizeof(t_list));
         if(!nodo)
             return(NULL);
+
     nodo->content = content;
     nodo->next = NULL;
     return(nodo);

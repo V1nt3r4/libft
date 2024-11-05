@@ -6,7 +6,7 @@
 #    By: ari <ari@student.42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/10/11 00:53:56 by aarcos            #+#    #+#              #
-#    Updated: 2024/11/05 02:04:08 by ari              ###   ########.fr        #
+#    Updated: 2024/11/05 20:40:16 by ari              ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -18,6 +18,7 @@ CC = cc
 CFLAGS = -Wall -Wextra -Werror
 AR = ar
 ARFLAGS = rcs
+RM = rm -f
 SRCS =	ft_isalpha.c \
 		ft_isdigit.c \
 		ft_isalnum.c \
@@ -52,7 +53,8 @@ SRCS =	ft_isalpha.c \
 		ft_putendl_fd.c \
 		ft_putnbr_fd.c \
 		ft_putstr_fd.c \
-		ft_lstnew_BONUS.c \
+
+BSRC = 	ft_lstnew_BONUS.c \
 		ft_lstadd_front_BONUS.c \
 		ft_lstsize_BONUS. \
 		ft_lstlast_BONUS.c \
@@ -64,28 +66,27 @@ SRCS =	ft_isalpha.c \
 		
 OBJS = $(SRCS:.c=.o)
 BOBJS = $(BSRC:.c=.o)
-RM = rm -f
+
 
 # RULES
 
 all: $(NAME)
 
-$(NAME): $(OBJS)  $(BOBJS)
-	$(AR) $(ARFLAGS) -o $(NAME) $(OBJS) $(BOBJS) 
+$(NAME): $(OBJS) $(BOBJS)
+	$(AR) $(ARFLAGS) -o $(NAME) $(OBJS) $(BOBJS)
 
 %.o: %.c
 	$(CC) $(CFLAGS) -c $< -o $@
 
 clean:
-	$(RM) $(OBJS) # $(BOBJS)
+	$(RM) $(OBJS) $(BOBJS)
 
 fclean: clean
 	$(RM) $(NAME)
 
 re: fclean all
 
- bonus: $(OBJS) archivo_bonus.o
-     $(CC) $(CFLAGS) -o $(NAME) $(OBJS) archivo_bonus.o
-
+bonus: $(OBJS)
+	$(CC) $(CFLAGS) -o $(OBJS) $(BOBJS)
 
 .PHONY: all clean fclean re bonus

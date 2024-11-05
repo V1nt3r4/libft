@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strnstr.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: aarcos <aarcos@student.42.fr>              +#+  +:+       +#+        */
+/*   By: ari <ari@student.42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/02 03:20:54 by aarcos            #+#    #+#             */
-/*   Updated: 2024/10/17 16:22:09 by aarcos           ###   ########.fr       */
+/*   Updated: 2024/11/05 20:14:06 by ari              ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -30,18 +30,4 @@ char	*ft_strnstr(const char *big, const char *little, size_t len)
 		i++;
 	}
 	return (NULL);
-}
-
-int main() {
-	char	str[] = "Hola Mundo";
-	char	sub[] = "Mun";
-	size_t	n = '9';
-	char	*result = ft_strnstr(str, sub, 9);
-
-	if(result)
-		printf("La subcadena '%s' se encontró en la posición: %ld\n", sub, result - str);
-	else
-		printf("No se encontró");
-
-	return (0);
 }
