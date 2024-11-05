@@ -6,7 +6,7 @@
 /*   By: ari <ari@student.42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/05 01:47:04 by ari               #+#    #+#             */
-/*   Updated: 2024/11/05 01:59:00 by ari              ###   ########.fr       */
+/*   Updated: 2024/11/05 22:36:07 by ari              ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,9 +14,12 @@
 
 void ft_lstiter(t_list *lst, void (*f)(void *))
 {
+    t_list  *temp;
+    
+    temp = lst;
     while (lst)
     {
-        f(lst->content);
-        lst->next;
+        f (temp->content);
+        temp = temp->next;
     }
 }

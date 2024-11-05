@@ -6,7 +6,7 @@
 /*   By: ari <ari@student.42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/04 21:51:17 by ari               #+#    #+#             */
-/*   Updated: 2024/11/04 22:13:46 by ari              ###   ########.fr       */
+/*   Updated: 2024/11/05 20:49:01 by ari              ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,8 +14,6 @@
 
 void ft_lstadd_front(t_list **lst, t_list *new)
 {
-    if(!new)
-        return (NULL);
-    new-> = *lst;
+    new->next = *lst;
     *lst = new;
 }

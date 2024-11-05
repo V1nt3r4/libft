@@ -6,7 +6,7 @@
 /*   By: ari <ari@student.42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/05 00:34:34 by ari               #+#    #+#             */
-/*   Updated: 2024/11/05 02:02:26 by ari              ###   ########.fr       */
+/*   Updated: 2024/11/05 22:32:40 by ari              ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,9 +14,6 @@
 
 void    ft_lstdelone(t_list *lst, void (*del)(void  *))
 {
-    if(lst == NULL)
-        return;
-    if(lst != NULL)
         del(lst->content);
         free(lst);
 }
