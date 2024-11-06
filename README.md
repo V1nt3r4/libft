@@ -19,7 +19,6 @@
 >[!IMPORTANT]
 > [**ReadmeFirst**](ReadmeFirst) 
 
-
 ## ꜰᴜɴᴄᴛɪᴏɴꜱ ɪɴᴄʟᴜᴅᴇᴅ
 
 The following is a list of functions that are part of this library, categorized by their respective headers:
@@ -33,7 +32,7 @@ The following is a list of functions that are part of this library, categorized 
 - [**STRLCPY**](libft/ft_strlcpy.c) : Copies a string to a destination with size limits.
 - [**STRNCMP**](libft/ft_strncmp.c) : Compares two strings up to a specified number of characters.
 - [**STRDUP**](libft/ft_strdup.c) : Duplicates a string.
-- [**STRNSTR**](ft_strnstr.c) : Finds the first occurrence of a substring within a string.
+- [**STRNSTR**](libft/ft_strnstr.c) : Finds the first occurrence of a substring within a string.
 - [**STRJOIN**](libft/ft_strjoin.c) : Concatenates two strings into a new one.
 - [**STRTRIM**](libft/ft_strtrim.c) : Removes leading and trailing whitespace from a string.
 - [**SUBSTR**](libft/ft_substr.c) : Extracts a substring from a string.
@@ -65,7 +64,7 @@ The following is a list of functions that are part of this library, categorized 
 - [**PUTCHAR_FD**](libft/ft_putchar_fd.c): Writes a character to a file descriptor.
 - [**PUTSTR_FD**](libft/ft_putstr_fd.c) : Writes a string to a file descriptor.
 - [**PUTENDL_FD**](libft/ft_putendl_fd.c) : Writes a string followed by a newline to a file descriptor.
-- [**PUTNBR_FD**](libft/ft_putnbt_fd) : Writes an integer as a string to a file descriptor.
+- [**PUTNBR_FD**](libft/ft_putnbr_fd.c) : Writes an integer as a string to a file descriptor.
 
 ### ᴄᴏɴᴠᴇʀꜱɪᴏɴ
 
